@@ -1,4 +1,6 @@
-# Kyle Spadaro - GitHub Version
+# KyleSpadaro - GitHub Version
+APP MADE FOR WWDC 16 SCHOLARSHIP
+
 This app was slightly edited for GitHub, as I don't want to share personal information.
 Among the things changed:
 Picture of me was replaced by a file from the Assets folder.
